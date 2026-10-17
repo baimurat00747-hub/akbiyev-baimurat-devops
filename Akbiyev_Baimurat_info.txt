@@ -1,0 +1,5 @@
+Name: Baimurat
+Surname: Akbiyev
+Group: IT2-2306
+Student ID: 38150
+Course: DevOps
