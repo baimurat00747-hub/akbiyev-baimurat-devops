@@ -13,3 +13,11 @@ Course: DevOps
 - GitHub
 - Docker
 - Jenkins
+
+## Project Description
+
+This project demonstrates a complete DevOps workflow
+using Linux, Git, GitHub, Docker and Jenkins.
+
+The application displays student information and
+supports configuration through environment variables.
